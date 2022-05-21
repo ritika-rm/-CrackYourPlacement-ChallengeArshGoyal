@@ -22,3 +22,4 @@ class Solution {
     }
 };
 50% accepted
+not arsh goyal
