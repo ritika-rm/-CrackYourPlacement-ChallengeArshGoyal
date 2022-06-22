@@ -13,3 +13,17 @@ class Solution(object):
         
 thought of using python omw but saw discussion cuz cant code
 will try in c++ again
+
+class Solution {
+public:
+    int strStr(string haystack, string needle) {
+        int i=haystack.find(needle);
+        if(i>=0)
+            return i;
+        else
+            return -1;
+        
+    }
+};
+
+lmao .find() is the best thing ever lol
