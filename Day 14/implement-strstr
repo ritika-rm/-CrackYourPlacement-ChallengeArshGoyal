@@ -27,3 +27,6 @@ public:
 };
 
 lmao .find() is the best thing ever lol
+
+
+there is smn called rabin karp algo, and kpm algo and Z algo to find this in lesser TC
